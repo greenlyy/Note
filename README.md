@@ -35,6 +35,7 @@ now try : git push
 
 git pull THE SAME AS git push, WHY?
 
+change hosts file to get the internet speed up.
 
 
 
