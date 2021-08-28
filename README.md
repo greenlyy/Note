@@ -29,6 +29,7 @@ change the readme.md file in github.
 
 direct edit master, then: git pull . It is ok, it work.
 
+try another: git rebase master
 
 
 
