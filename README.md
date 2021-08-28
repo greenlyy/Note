@@ -33,6 +33,8 @@ try another: git rebase master. sorry, it is not work. I don't have child-dev fi
 
 now try : git push
 
+git pull THE SAME AS git push, WHY?
+
 
 
 
