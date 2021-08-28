@@ -5,7 +5,7 @@
 
 ## test
 
-- 2021/08/28 github.dev, change the readme.md file, then "git pull". It is ok, it work. try another: "git push". It is ok, too. Question: git pull THE SAME AS git push, WHY?
+- 2021/08/28 github.dev, change the readme.md file, get some note, then sync.
 - change hosts file to get the github.com speed up.
 
 
