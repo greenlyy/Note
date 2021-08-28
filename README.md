@@ -16,3 +16,12 @@
 how to pull that
 
 
+# Note
+
+## day
+
+- 2019/1/23 23:06 study the github
+- 2021/8/26 study again
+
+## plan
+
