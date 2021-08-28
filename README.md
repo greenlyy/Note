@@ -27,3 +27,6 @@ how to pull that
 
 change the readme.md file in github.
 
+direct edit master, then: git pull
+
+
