@@ -29,7 +29,10 @@ change the readme.md file in github.
 
 direct edit master, then: git pull . It is ok, it work.
 
-try another: git rebase master
+try another: git rebase master. sorry, it is not work. I don't have child-dev file.
+
+now try : git push
+
 
 
 
